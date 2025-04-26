@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: xmlser-rc5.jar jfreereport-0.8.4_8-all.jar poi-2.0-RC1-20031102.jar jcommon-0.9.1a.jar itext-1.00.jar
+Main-Class: claudiosoft.studioBerti.Studio
+
+
+
+
